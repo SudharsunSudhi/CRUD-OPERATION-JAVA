@@ -1,4 +1,4 @@
-package com.codewitharjun.fullstackbackend.model;
+package com.codewithsudharsun.fullstackbackend.model;
 
 
 import jakarta.persistence.Entity;
