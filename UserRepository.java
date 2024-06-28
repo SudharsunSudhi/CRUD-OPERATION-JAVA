@@ -1,7 +1,7 @@
-package com.codewitharjun.fullstackbackend.repository;
+package com.codewithsudharsun.fullstackbackend.repository;
 
 
-import com.codewitharjun.fullstackbackend.model.User;
+import com.codewithsudharsun.fullstackbackend.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 
